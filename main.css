@@ -96,3 +96,14 @@ table td img {
     background-color: red;
 }
 
+footer {
+    display: block;
+    max-width: 960px;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    margin-top: 56px;
+    padding: 32px;
+}
+
+
